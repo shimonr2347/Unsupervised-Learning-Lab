@@ -66,7 +66,7 @@ python kmeans_pca_lab.py
 * **Cost Convergence**: <img width="986" height="502" alt="cost_over_iterations" src="https://github.com/user-attachments/assets/c712efb9-c19f-40b7-a9a5-695cdd32f078" />
 *  **Cluster Tuning**: <img width="991" height="742" alt="final_clustering" src="https://github.com/user-attachments/assets/7999c12d-ff40-474e-8e39-ecbc5887039a" />  
 
-### Part 2**:
+### Part 2:
 *  **MNIST Projection**: <img width="1052" height="911" alt="MNIST_projection" src="https://github.com/user-attachments/assets/ad07c3b1-64d2-449b-9621-3d0ad9ddbbd1" />
 *  **Mathematical Analysis: $V^TV$ vs $VV^T$**: <img width="1492" height="622" alt="matrices_plotting" src="https://github.com/user-attachments/assets/672764b4-f3a5-46f7-842b-63bc6eb1105b" />
 *  **Image Reconstruction**: <img width="1867" height="622" alt="pca_reconstruction" src="https://github.com/user-attachments/assets/273d39b6-b497-4db9-8ef3-c3da8a27464f" />
